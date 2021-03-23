@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="CpuUsageIndicator">
+    <archive path="/Users/jonathan/Downloads/CpuUsageIndicator/lib/CpuUsageIndicator.jar" />
+  </library>
+  <library name="Statistic-4.1">
+    <archive path="/Users/jonathan/Downloads/Statistic-4.1.jar" />
+  </library>
+  <library name="junit:junit:4.12">
+    <archive path="/Users/jonathan/.m2/repository/junit/junit/4.12/junit-4.12.jar" />
+    <archive path="/Users/jonathan/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+  </library>
+</eclipse-userlibraries>
+
