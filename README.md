@@ -4,7 +4,7 @@ Multiplayer President Card Game
 Created by: Jonathan Cheng
 5/20/2020
 
-#HOW TO PLAY:
+## How to Play:
 Right click Play.command or MultiplayerPres.jar and click run. Follow directions on screen, more instructions can be found at:
 https://en.wikipedia.org/wiki/President_(card_game)
 
@@ -16,7 +16,7 @@ Thank you for playing!
 
 
 
-#HOW THE GAME WORKS:
+## How the Game Works:
 Each game of President consists of a ServerGame and anywhere from 0 to 3 ClientGames. The ServerGame communicates
 with all of the ClientGames, starting with a StartPacket that basically contains the information on who has what
 cards (so that everyone is actually playing the same game). Whenever someone plays a card or passes (on their turn),
